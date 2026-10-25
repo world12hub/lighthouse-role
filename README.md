@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lighthouse-role
 
 =========
@@ -54,3 +55,6 @@ License
 -------
 
 MIT
+=======
+# lighthouse-role
+>>>>>>> 9f5d0c8967360bb95091ce530fe6cb0918f0d9bf
